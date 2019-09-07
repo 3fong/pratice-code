@@ -1,0 +1,4 @@
+student[lisi,80,80,80]	240
+student[lulin,50,50,60]	160
+student[liwu,50,50,50]	150
+student[lulei,10,20,30]	60

@@ -1,0 +1,6 @@
+#love
+#Fri Nov 20 09:24:15 CST 2015
+lisw=90
+zhangsa=30
+zhangsan=30
+lisi=10
